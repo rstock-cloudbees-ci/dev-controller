@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "rstock-cloudbees-ci-dev-controller"
+description: "CloudBees CI configuration bundle for the rstock-cloudbees-ci dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/rstock-cloudbees-ci/dev-controller"
+parent: "base"
